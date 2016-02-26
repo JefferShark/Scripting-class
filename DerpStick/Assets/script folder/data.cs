@@ -6,9 +6,9 @@ public class data : MonoBehaviour
 	void Start () 
 	{
 		Vector3 pos = transform.position;
-		pos = new Vector3(0, 2, 0);
+		pos = new Vector3(0, 7, 0);
 
 		Transform tran = transform;
-		tran.position = new Vector3(0, 2, 0);
+		tran.position = new Vector3(0, 7, 0);
 	}
 }
