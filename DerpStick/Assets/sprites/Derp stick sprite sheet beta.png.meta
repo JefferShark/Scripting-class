@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: c42b2200369151d468eae49f352a523a
+timeCreated: 1461337131
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Derp stick sprite sheet beta_0
+    21300002: Derp stick sprite sheet beta_1
+    21300004: Derp stick sprite sheet beta_2
+    21300006: Derp stick sprite sheet beta_3
+    21300008: Derp stick sprite sheet beta_4
+    21300010: Derp stick sprite sheet beta_5
+    21300012: Derp stick sprite sheet beta_6
+    21300014: Derp stick sprite sheet beta_7
+    21300016: Derp stick sprite sheet beta_8
+    21300018: Derp stick sprite sheet beta_9
+    21300020: Derp stick sprite sheet beta_10
+    21300022: Derp stick sprite sheet beta_11
+    21300024: Derp stick sprite sheet beta_12
+    21300026: Derp stick sprite sheet beta_13
+    21300028: Derp stick sprite sheet beta_14
+    21300030: Derp stick sprite sheet beta_15
+    21300032: lazer
+    21300034: Derp stick sprite sheet beta_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Derp stick sprite sheet beta_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 432
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 432
+        width: 39
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 432
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 432
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 360
+        width: 42
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 360
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 359
+        width: 46
+        height: 55
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 360
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 375
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 288
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 288
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 288
+        width: 46
+        height: 54
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 288
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 216
+        width: 52
+        height: 73
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 216
+        width: 52
+        height: 73
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 216
+        width: 52
+        height: 73
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lazer
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 52
+        height: 289
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Derp stick sprite sheet beta_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 83
+        width: 117
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
